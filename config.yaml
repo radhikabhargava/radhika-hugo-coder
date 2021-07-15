@@ -1,0 +1,89 @@
+baseURL: http://www.example.com
+title: Radhika
+theme: hugo-coder
+languageCode: en
+defaultContentLanguage: en
+paginate: 20
+pygmentsStyle: bw
+pygmentsCodeFences: yes
+pygmentsCodeFencesGuessSyntax: yes
+enableEmoji: yes
+params:
+  author: Radhika
+  avatarURL: 
+  colorScheme: auto
+  commit: https://github.com/radhikabhargava/radhika-hugo-coder
+  csp:
+    childsrc: '''self'''
+    connectsrc:
+      - '''self'''
+      - https://www.google-analytics.com
+    fontsrc:
+      - '''self'''
+      - https://fonts.gstatic.com
+      - https://cdn.jsdelivr.net/
+    formaction: '''self'''
+    framesrc: '''self'''
+    imgsrc: '''self'''
+    objectsrc: '''none'''
+    prefetchsrc: '''self'''
+    scriptsrc:
+      - '''self'''
+      - '''unsafe-inline'''
+      - https://www.google-analytics.com
+    stylesrc:
+      - '''self'''
+      - '''unsafe-inline'''
+      - https://fonts.googleapis.com/
+      - https://cdn.jsdelivr.net/
+  customCSS: []
+  customJS: []
+  customSCSS: []
+  dateFormat: January 2, 2006
+  description: Radhika's personal website
+  enableTwemoji: no
+  footerContent: Be the change. 
+  hideColorSchemeToggle: no
+  hideCopyright: no
+  hideCredits: no
+  hideFooter: no
+  info:
+    - Teacher and Researcher
+    
+  keywords: blog,developer,personal
+  maxSeeAlsoItems: 5
+  rtl: no
+  since: 2019
+  social:
+    - icon: fa fa-linkedin
+      name: LinkedIn
+      url: www.linkedin.com/in/radhika-bhargava-b0647616b
+      weight: 4
+    - icon: fa fa-instagram
+      name: Instagram
+      url: https://www.instagram.com/radhikabhargava_/
+      weight: 5
+    
+taxonomies:
+  author: authors
+  category: categories
+  series: series
+  tag: tags
+languages:
+  en:
+    languageName: ':uk:'
+    menu:
+      main:
+        - name: About Me
+          url: about/
+          weight: 1
+        - name: Blog (Coming Soon)
+          url: 
+          weight: 4
+        - name: Projects
+          url: projects/
+          weight: 3
+        - name: Publication & Conference
+          url: contact/
+          weight: 2
+  

@@ -1,0 +1,13 @@
+baseURL = "https://example.com/"
+title = "Radhika"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+[module]
+[module.hugoVersion]
+min = "0.77.0"
