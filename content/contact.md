@@ -1,6 +1,6 @@
 ---
 slug: contact
-title: Contact
+title: Publications & Conferences
 ---
 
 This is a list of the research projects I am part of, bifurcated by broad areas of study. 
