@@ -5,6 +5,7 @@ slug: contact
 
 ----------------------------------------------------------------------------------------
 
+
 # _Personality Psychology - Psycholexical Methods_
 
 1. Exploring personality structure in Hindi speakers using psycho-lexical and text mining methods
@@ -13,7 +14,6 @@ slug: contact
 
 3. Study of Structure of Personality in 6 Indian languages using the Self-Descriptor Generation Method (Hindi, Marathi, Konkani, Kannada, Malayalam, Tamil)
 
-4. Translation and Adaptation of the BFI Instrument to Hindi [View Translation](https://drive.google.com/file/d/1550lqvsbXxazszh30-FQSF3eIVUjELxn/view?usp=sharing)
 
 ----------------------------------------------------------------------------------------
 
