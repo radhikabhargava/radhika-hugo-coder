@@ -83,7 +83,7 @@ languages:
         - name: Projects
           url: projects/
           weight: 3
-        - name: Publication & Conference
+        - name: Publications & Conferences
           url: contact/
           weight: 2
   
