@@ -84,6 +84,6 @@ languages:
           url: projects/
           weight: 3
         - name: Publications & Conferences
-          url: contact/
+          url: publications/
           weight: 2
   
