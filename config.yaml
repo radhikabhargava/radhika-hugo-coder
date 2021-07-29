@@ -57,12 +57,12 @@ params:
   social:
     - icon: fa fa-linkedin
       name: LinkedIn
-      url: www.linkedin.com/in/radhika-bhargava-b0647616b
-      weight: 4
+      url: https://www.linkedin.com/in/radhika-bhargava-b0647616b
+      weight: 1
     - icon: fa fa-instagram
       name: Instagram
       url: https://www.instagram.com/radhikabhargava_/
-      weight: 5
+      weight: 2
     
 taxonomies:
   author: authors
