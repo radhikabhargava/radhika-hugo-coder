@@ -9,7 +9,7 @@ title: Projects
 
 With an aim to bring psychological assessment to anyone and everyone, this online platform provides free assessment and personalized reports to respondents and participants. 
 
-In phase 1, career testing and assessment was done for 15,000 students of India (mostly, Maharashtra). While MUPI was developed as part of this project, I designed and automated psychometric reports using R, R sweave and MikTex. [Click here to view a sample.](https://drive.google.com/file/d/1iVk_OhwtyDuQk2WRrywtsbgld0F5y9-K/view?usp=sharing) Tools were developed keeping the Indian diversity in mind and in various Indian languages including Hindi, Marathi, Konkani, Kannada, Malayalam, Assamese and English. 
+In phase 1, career testing and assessment was done for 15,000 students of India (mostly, Maharashtra). While MUPI was developed as part of this project, I designed and automated psychometric reports using R, R sweave and MikTex. [Click here to view a sample.](https://drive.google.com/file/d/1_jZBikLBI0VtbaQaAOwLwBkT59TgrmJI/view?usp=sharing) Tools were developed keeping the Indian diversity in mind and in various Indian languages including Hindi, Marathi, Konkani, Kannada, Malayalam, Assamese and English. 
 
 
 ----------------------------------------------------------------------------------------

@@ -19,7 +19,7 @@ slug: publications
 
 # _Personality Psychology - Test Development & Psychometrics_
 
-1. Development of Mumbai University Personality Inventory: Measuring Personality beyond the Big 5 [Click here for preliminary findings of MUPI.](https://drive.google.com/file/d/1HmFq7uoB170Snm--SgApswcBmhHZ4DS0/view?usp=sharing) [Click here to view a sample MUPI report.](https://drive.google.com/file/d/1iVk_OhwtyDuQk2WRrywtsbgld0F5y9-K/view?usp=sharing) 
+1. Development of Mumbai University Personality Inventory: Measuring Personality beyond the Big 5 [Click here to view a sample MUPI report.](https://drive.google.com/file/d/1_jZBikLBI0VtbaQaAOwLwBkT59TgrmJI/view?usp=sharing) 
 
 2. Translation and Adaptation of the BFI Instrument to Hindi [View Translation](https://drive.google.com/file/d/1550lqvsbXxazszh30-FQSF3eIVUjELxn/view?usp=sharing)
 
