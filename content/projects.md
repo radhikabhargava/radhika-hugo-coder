@@ -10,9 +10,11 @@ title: Projects
 With an aim to bring psychological assessment to anyone and everyone, this online platform provides free assessment and personalized reports to respondents and participants in their local languages. 
 
 
-# _ Indian Languages Word Corpus_
+# _Indian Languages Word Corpus_
 Corpus development for Indian languages. Currently available in Hindi and Marathi.
 [https://indianlangwordcorp.shinyapps.io/ILWC/](https://indianlangwordcorp.shinyapps.io/ILWC/)
 
 # _Lexical Gandhi_
 Analysis of Gandhian texts and literature. Available on [lexical-gandhi.shinyapps.io/lexical-gandhi/](lexical-gandhi.shinyapps.io/lexical-gandhi/)
+
+<img src="/./projects_files/02-10-2023 Lokmat.jpeg" alt="Lokmat 02-10-2023" width="400px" height="200px"/>
