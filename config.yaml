@@ -58,11 +58,15 @@ params:
     - icon: fa fa-linkedin
       name: LinkedIn
       url: https://www.linkedin.com/in/radhika-bhargava-b0647616b
-      weight: 1
+      weight: 2
     - icon: fa fa-instagram
       name: Instagram
       url: https://www.instagram.com/radhikabhargava_/
-      weight: 2
+      weight: 3
+    - icon: fa fa-researchgate
+      name: ResearchGate
+      url: https://www.researchgate.net/profile/Radhika_Bhargava2
+      weight: 1
     
 taxonomies:
   author: authors

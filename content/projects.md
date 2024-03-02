@@ -17,4 +17,3 @@ Corpus development for Indian languages. Currently available in Hindi and Marath
 # _Lexical Gandhi_
 Analysis of Gandhian texts and literature. Available on [lexical-gandhi.shinyapps.io/lexical-gandhi/](lexical-gandhi.shinyapps.io/lexical-gandhi/)
 
-<img src="/./projects_files/02-10-2023 Lokmat.jpeg" alt="Lokmat 02-10-2023" width="400px" height="200px"/>
